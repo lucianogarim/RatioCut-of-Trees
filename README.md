@@ -1,4 +1,4 @@
-# RatioCut-of-Tress
+# RatioCut-of-Trees
 To run this algorithm you need put all arquives in the same directory, and run ratiocut_2.m
 If you want generate different types of a trees you can change the parameters at Tree_Generator_main.m
 
